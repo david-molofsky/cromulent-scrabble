@@ -1,7 +1,7 @@
 {
-  "name": "Cromulent Scrabble",
-  "short_name": "Cromulent",
-  "description": "A Scrabble-inspired word game.",
+  "name": "Cromulence",
+  "short_name": "Cromulence",
+  "description": "Embiggen your vocabulary.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
